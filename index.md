@@ -1,1 +1,1 @@
-# Hello world
+# manyminds.de
